@@ -34,6 +34,7 @@ A full-stack hotel booking web application built with the MERN stack (MongoDB, E
 ---
 
 ## 📁 Project Structure
+
 BookingApp/
 ├── api/                  # Backend (Node.js + Express)
 │   ├── controllers/      # Route controllers

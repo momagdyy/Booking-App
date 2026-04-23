@@ -70,13 +70,13 @@ BookingApp/
 2. **Setup the API**
 ```bash
    cd api
-   npm install
+   yarn
 ```
 
 3. **Setup the Client**
 ```bash
    cd ../client
-   npm install
+   yarn
 ```
 
 4. **Configure environment variables**
@@ -93,13 +93,13 @@ BookingApp/
 **Backend:**
 ```bash
 cd api
-npm start
+yarn start
 ```
 
 **Frontend:**
 ```bash
 cd client
-npm start
+yarn start
 ```
 
 The app will be available at `http://localhost:3000`
